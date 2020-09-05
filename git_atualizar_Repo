@@ -1,0 +1,16 @@
+#!/bin/bash
+#
+#Esse programa atualiza o repositorio do github
+
+#Entrar no diretorio
+
+cd /home/renato/rflinuxRepo
+
+#Executar comandos do git para sicronizar no repositorio github
+
+
+git add .
+git commit -m "Adicionado o README.md"
+git commit -m "Adicionado ao arquivo Teste"
+git push
+git status
