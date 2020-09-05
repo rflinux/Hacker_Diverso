@@ -12,6 +12,6 @@ cd /home/renato/rflinuxRepo
 git add .
 git commit -m "Adicionado o README.md"
 git commit -m "Adicionado ao arquivo Teste"
-git commit -m "Adicionado ao git_atualizar_Repo
+git commit -m "criarsite.sh"
 git push
 git status
