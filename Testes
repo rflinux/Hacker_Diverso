@@ -1,10 +1,10 @@
-Testes de Acesso no meu repositorio Git via SSH
-Continuação de teste repositorio Git
+#Testes de Acesso no meu repositorio Git via SSH
+#Continuação de teste repositorio Git
 
-Feito Script para automatizar as ações do Git para o GitHub
+#Feito Script para automatizar as ações do Git para o GitHub
 
 
-Colocando informações sobre docker-compose, o que será colocado dentro do docker-compose.yml
+#Colocando informações sobre docker-compose, o que será colocado dentro do docker-compose.yml
 
 version: '1.17.1'
 
