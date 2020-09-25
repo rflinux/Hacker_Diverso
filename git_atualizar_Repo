@@ -10,9 +10,9 @@ cd /home/renato/rflinuxRepo
 
 
 git add .
+git commit -m "script_banco_zabbix"
 git commit -m "Adicionado o README.md"
 git commit -m "Adicionado ao arquivo Testes"
 git commit -m "criarsite.sh"
-git commit -m "script_banco_zabbix" 
 git push
 git status
