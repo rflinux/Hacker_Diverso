@@ -4,7 +4,7 @@
 
 #Entrar no diretorio
 
-cd /home/renato/rflinuxRepo
+cd /home/renato/rflinuxRepo/rflinuxRepo
 
 #Executar comandos do git para sicronizar no repositorio github
 
@@ -14,5 +14,6 @@ git commit -m "script_banco_zabbix"
 git commit -m "Adicionado o README.md"
 git commit -m "Adicionado ao arquivo Testes"
 git commit -m "criarsite.sh"
+git commit -m "jenkinsfile"
 git push
 git status
