@@ -1,0 +1,72 @@
+Recon-ng
+
+Instalando Modulos 
+marketplace install 
+
+Ver os modulos
+modules search
+
+Criar espaço de trabalho
+workspaces create pentest
+
+Lista comando
+workspaces list
+
+Verificando modulos
+modules search whois
+
+Entrando no modulo
+modules load recon/domains-contacts/whois_pocs
+
+Comando info para ver como ele funciona
+info
+
+ Começando com o Comando
+options set SOURCE microsoft.com
+
+Rodando o info de novo se ficou salvo o site
+info
+
+Execute usando o comando abaixo
+run
+
+Obtendo lista de subdominios
+modules search site
+recon/domains-hosts/google_site_web
+
+Usando o modulo acima
+modules load recon/domains-hosts/google_site_web
+
+Comando info e setando um site
+options set SOURCE microsoft.com
+
+Comando para iniciar a busca de subdominios
+run
+
+Comando para ver todos os hosts capturados e ips
+show hosts
+
+Criando relatório
+Comando Dashboard
+
+Reporting formatos dos arquivos
+modules search report
+
+Reportando em html
+modules load reporting/html
+
+Gerando um criador padrão
+options set CREATOR GDS
+
+Customer
+options set CUSTOMER microsoft
+
+Gerando
+options set FILENAME /root/report.html
+Comando run
+
+
+
+
+
+
