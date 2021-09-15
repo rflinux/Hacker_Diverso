@@ -1,5 +1,7 @@
 # rflinuxRepo
-Repositorio Teste Git
-teste git 14/09/2021
+
+Repositorio com diversas informações de Scripts e tutorias para o dia dia..
+
+
 
 Script git Atualizar Repositorios OK
