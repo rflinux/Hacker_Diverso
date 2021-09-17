@@ -1,0 +1,17 @@
+SSLScan
+
+Comandos openssl  
+
+openssl -s_client -connect www.exemplo.com.br:443   Vulnerabilidades em Certificados
+
+sslscan Digite o IP
+
+sslyze --regular Digite  IP
+
+
+Para instalar o sslyze apt install python3-pip
+
+$ pip install --upgrade setuptools pip
+$ pip install --upgrade sslyze
+$ python -m sslyze www.yahoo.com www.google.com "[2607:f8b0:400a:807::2004]:443"
+
